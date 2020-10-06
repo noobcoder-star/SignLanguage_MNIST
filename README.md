@@ -1,2 +1,2 @@
 # SignLanguage_MNIST
-Sign Language MNIST Kaggle Dataset
+Open as a Hacktoberfest repository. PRs of value will be accepted
